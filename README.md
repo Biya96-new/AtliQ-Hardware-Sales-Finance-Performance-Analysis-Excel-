@@ -107,11 +107,5 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 - Improved financial visibility for strategic planning  
 - Increased transparency in performance reporting  
 
----
 
-## 📎 Tools Used
 
-- Microsoft Excel  
-- Power Query  
-- Power Pivot  
-- Data Modeling  
