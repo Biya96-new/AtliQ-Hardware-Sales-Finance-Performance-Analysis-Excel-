@@ -59,6 +59,8 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 ### 📷 Sales Performance – Excel Report Snapshot
 
 ![Sales Performance Report](images/sales_performance_report.png)
+<img width="550" height="388" alt="image" src="https://github.com/user-attachments/assets/8832c352-7fdd-46c3-8346-2acd6f09a62e" />
+
 
 This structured Excel report highlights multi-year revenue trends, division-level contribution, new product performance, customer growth patterns, and market-wise sales comparison.
 
