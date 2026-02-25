@@ -58,11 +58,7 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 
 ### 📷 Sales Performance – Excel Report Snapshot
 
-![Sales Performance Report](images/sales_performance_report.png)
-<img width="550" height="388" alt="image" src="https://github.com/user-attachments/assets/8832c352-7fdd-46c3-8346-2acd6f09a62e" />
-
-
-This structured Excel report highlights multi-year revenue trends, division-level contribution, new product performance, customer growth patterns, and market-wise sales comparison.
+<img width="368" height="443" alt="image" src="https://github.com/user-attachments/assets/fbd66fca-bf26-44c7-8cdc-30d1241f7f37" />
 
 ---
 
@@ -87,9 +83,7 @@ This structured Excel report highlights multi-year revenue trends, division-leve
 
 ### 📷 Financial Performance – Excel Report Snapshot
 
-![Financial Performance Report](images/financial_performance_report.png)
-
-This financial report presents Yearly and Monthly P&L statements, Gross Margin % trends, regional profitability comparison, and multi-year financial performance evaluation.
+<img width="364" height="351" alt="image" src="https://github.com/user-attachments/assets/fbbbd3e7-1e56-401f-a4d1-bbaebea8c03c" />
 
 ---
 
