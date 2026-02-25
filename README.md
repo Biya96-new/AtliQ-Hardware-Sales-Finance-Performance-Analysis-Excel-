@@ -1,5 +1,7 @@
 # AtliQ Hardware – Sales & Finance Performance Analysis (Excel)
 
+---
+
 ## 🏢 Business Context
 
 AtliQ Hardware manufactures and sells PCs, printers, and accessories across global markets through retail partners (Croma, Best Buy) and e-commerce platforms (Amazon, Flipkart).
@@ -54,6 +56,14 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 
 ---
 
+### 📷 Sales Performance – Excel Report Snapshot
+
+![Sales Performance Report](images/sales_performance_report.png)
+
+This structured Excel report highlights multi-year revenue trends, division-level contribution, new product performance, customer growth patterns, and market-wise sales comparison.
+
+---
+
 ## 💰 Finance Analysis
 
 ### 🔹 Reports Developed
@@ -70,6 +80,14 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 - Gross Margin % remained stable despite increased operational costs  
 - Profitability varied across regions  
 - Regional GM% comparison supported benchmarking and optimization planning  
+
+---
+
+### 📷 Financial Performance – Excel Report Snapshot
+
+![Financial Performance Report](images/financial_performance_report.png)
+
+This financial report presents Yearly and Monthly P&L statements, Gross Margin % trends, regional profitability comparison, and multi-year financial performance evaluation.
 
 ---
 
@@ -92,3 +110,12 @@ To design structured Excel-based Sales and Finance Performance Reports that prov
 - Highlighted high-potential international markets  
 - Improved financial visibility for strategic planning  
 - Increased transparency in performance reporting  
+
+---
+
+## 📎 Tools Used
+
+- Microsoft Excel  
+- Power Query  
+- Power Pivot  
+- Data Modeling  
